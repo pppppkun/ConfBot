@@ -1,0 +1,10 @@
+You are a software engineering research expert. Please assign keywords to the paper based on its title and abstract; please think carefully. You may select from the keyword pool below. If you feel that the information in the keyword pool cannot adequately summarize the paper, you need to come up with your own keywords that do. Each paper must have a maximum of 5 keywords. Avoid using the terms 'empirical study' or 'survey' unless they are explicitly mentioned in the title or abstract. Please output the keywords as a comma-separated string. Do not output any additional information other than the keywords.
+
+### keywords pool
+{keywords}
+
+### title
+{title}
+
+### abstract
+{abstract}
